@@ -1,6 +1,6 @@
 document.getElementById("whatsappButton").addEventListener("click", function () {
     let modelo = "Calcinha1"; // Nome do modelo
-    let imagemUrl = "https://bella-gi-dois.vercel.app/images/catalogo/calcinha1.jpg"; // Link da imagem
+    let imagemUrl = "https://bella-gi-dois-oer927zq0-winics-projects.vercel.app/images/catalogo/calcinha1.jpg"; // Link da imagem
     let mensagem = `Olá! Estou interessado no modelo: ${modelo}. Veja a imagem aqui: ${imagemUrl}`;
 
     let numero = "41991902924"; // Seu número com DDD
